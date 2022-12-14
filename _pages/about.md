@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Predoctoral Fellow in Economics at the [Development Data Lab](https://www.devdatalab.org/). Prior to joining Imperial, she was a Predoctoral Fellow in Economics at Yale University's Tobin Center for Economic Policy. I received my MSc Economics from the London School of Economics and Political Science. My primary research interests are applied microeconometrics, primarily labor and urban economics. 
+I am a Predoctoral Fellow in Economics at the [Development Data Lab](https://www.devdatalab.org/). Prior to joining Imperial, I was a Predoctoral Fellow in Economics at Yale University's Tobin Center for Economic Policy. I received my MSc Economics from the London School of Economics and Political Science. 
+
+My primary research interests are applied microeconometrics, primarily labor and urban economics. 
 
 <!-- comment -->
 
