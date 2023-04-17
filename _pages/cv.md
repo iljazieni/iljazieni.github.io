@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://iljazieni.github.io/files/cv.pdf" type="application/pdf" />
+<embed src="https://iljazieni.github.io/assets/cv.pdf" type="application/pdf" />
