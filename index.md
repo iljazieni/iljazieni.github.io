@@ -18,4 +18,3 @@ I am a Predoctoral Fellow in Economics at the [Development Data Lab (DDL)](https
 - Urban Economics
 - Political Economy
 - Stratification Economics
-
