@@ -19,15 +19,3 @@ I am a Predoctoral Fellow in Economics at the [Development Data Lab (DDL)](https
 - Political Economy
 - Stratification Economics
 
-
-<! -- 
-
-TO ADD:
-
-1. change the bullet points in links to their respective icons
-2. reorg the page so that the links are not stacked but spread out horizontally at top of page
-3. change blue color 
-4. change font to Cormorant Garamond
-5. remove the "About" and "View my Github profile" below photo
-
--->
