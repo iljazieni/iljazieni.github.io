@@ -8,10 +8,10 @@ I am a Predoctoral Fellow in Economics at the [Development Data Lab (DDL)](https
 
 # Research Interests
 
-- Labor Economics
 - Urban Economics
-- Political Economy
-- Stratification Economics
+- Labor Economics
+- Public Economics
+
 
  [CV](/assets/Eni_Iljazi_CV.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/iljazieni)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/eni_iljazi/)&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/iljazieni/)&nbsp;&nbsp;&nbsp;&nbsp;[Mail](mailto:iljazi@devdatalab.org)
 
