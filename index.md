@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div class="main-content" style="max-width: 80%;">
-
 [CV](/assets/iljazi_CV.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/iljazieni)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/eni_iljazi/)&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/iljazieni/)&nbsp;&nbsp;&nbsp;&nbsp;[Mail](mailto:iljazi@devdatalab.org)
 
 # About
@@ -24,4 +22,4 @@ The second part of my urban economics research agenda is centered around designi
 
 <sup>1</sup> Jane Jacobs, The Death and Life of Great American Cities
 
-</div>
+
