@@ -6,7 +6,7 @@ layout: default
 
 # About
 
-I am currently a Research Associate at the [Development Data Lab (DDL)](https://www.devdatalab.org/). Prior to joining DDL, I was a Predoctoral Fellow in Economics at Yale University’s [Tobin Center for Economic Policy](https://tobin.yale.edu/). I received my MSc Economics from the London School of Economics and Political Science.
+I am an incoming Economics PhD student at [UPenn Wharton](https://doctoral.wharton.upenn.edu/programs-of-study/applied-economics/). I am currently a Research Associate at the [Development Data Lab (DDL)](https://www.devdatalab.org/). Prior to joining DDL, I was a Predoctoral Fellow in Economics at Yale University’s [Tobin Center for Economic Policy](https://tobin.yale.edu/). I received my MSc Economics from the London School of Economics and Political Science.
 
 # Research Interests
 
