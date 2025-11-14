@@ -12,7 +12,7 @@ I am an Economics PhD student at [The Wharton School, University of Pennsylvania
 
 "I like dense cities best and care about them most". <sup>1</sup> 
 
-How can local governments improve the efficiency of land and housing markets in fast-growing cities? I am an urban and public finance economist, interested in understanding the role of housing finance in expanding the housing supply. In many developing cities, markets for the private provision of housing are underdeveloped due to insecure property rights, unclear land titling, weak legal enforcement, and limited access to housing finance, all of which increase the costs of supplying formal housing. More work is needed to identify which policies most effectively lower construction costs, making formal housing more affordable for urban households.
+I am an urban and real estate economist, interested in understanding the dynamics of the supply of housing and commercial real estate in highly productive cities. I combine methods from empirical IO and quantitative spatial models to understand how developers' incentives shape economic activity in cities over time.
 
 ---
 
